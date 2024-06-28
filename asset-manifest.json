@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//zawils.github.io/suara_web_uts/static/css/main.fcad9884.css",
+    "main.js": "/https//zawils.github.io/suara_web_uts/static/js/main.b253a926.js",
+    "static/js/845.e17e8b88.chunk.js": "/https//zawils.github.io/suara_web_uts/static/js/845.e17e8b88.chunk.js",
+    "index.html": "/https//zawils.github.io/suara_web_uts/index.html",
+    "main.fcad9884.css.map": "/https//zawils.github.io/suara_web_uts/static/css/main.fcad9884.css.map",
+    "main.b253a926.js.map": "/https//zawils.github.io/suara_web_uts/static/js/main.b253a926.js.map",
+    "845.e17e8b88.chunk.js.map": "/https//zawils.github.io/suara_web_uts/static/js/845.e17e8b88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcad9884.css",
+    "static/js/main.b253a926.js"
+  ]
+}
