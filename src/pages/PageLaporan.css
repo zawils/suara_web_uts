@@ -1,0 +1,341 @@
+.navakun-inner,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 371px;
+  height: 1024px;
+}
+.navakun-inner {
+  width: 370px;
+  height: 84px;
+}
+.akun2 {
+  position: absolute;
+  top: 23px;
+  left: 128px;
+  cursor: pointer;
+}
+.codiconaccount1 {
+  position: absolute;
+  top: 27px;
+  left: 81px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.navakun2 {
+  position: absolute;
+  top: 393px;
+  left: 1px;
+  width: 370px;
+  height: 84px;
+}
+.beranda2,
+.vector-icon18 {
+  position: absolute;
+  top: 24px;
+  left: 127px;
+}
+.vector-icon18 {
+  height: 37.5%;
+  width: 9.46%;
+  top: 22.62%;
+  right: 68.92%;
+  bottom: 39.88%;
+  left: 21.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navberanda4 {
+  position: absolute;
+  top: 185px;
+  left: 1px;
+  width: 370px;
+  height: 84px;
+  cursor: pointer;
+}
+.laporan2 {
+  position: absolute;
+  top: 22px;
+  left: 128px;
+}
+.carbonreport-icon1 {
+  position: absolute;
+  top: 18px;
+  left: 76px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.navlaporan2 {
+  position: absolute;
+  top: 289px;
+  left: 1px;
+  width: 370px;
+  height: 84px;
+}
+.whatsapp-image-2024-04-30-at-14 {
+  position: absolute;
+  top: 49px;
+  left: 53px;
+  width: 228px;
+  height: 54px;
+  object-fit: cover;
+}
+.navberanda3 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 371px;
+  height: 1024px;
+  color: var(--color-white);
+}
+.rafael-rachel-struick2 {
+  position: absolute;
+  top: 28px;
+  left: 80px;
+  font-weight: 600;
+}
+.ellipse-icon2,
+.profile1 {
+  position: absolute;
+  height: 69px;
+}
+.ellipse-icon2 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 70px;
+  object-fit: cover;
+}
+.profile1 {
+  top: 26px;
+  left: 1198px;
+  width: 212px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-montserrat);
+}
+.formlaporan-child {
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: #fae9f4;
+  width: 942px;
+  height: 820px;
+}
+.formlaporan-child,
+.inputnama-child,
+.nama {
+  position: absolute;
+  left: 0;
+}
+
+.nama {
+  top: 0;
+  font-weight: 500;
+}
+
+.judulfoto {
+  top: 0;
+  font-weight: 500;
+}
+
+.inputnama-child {
+  top: 35px;
+  background-color: var(--color-gainsboro);
+  width: 359px;
+  height: 31px;
+}
+.inputjenisaduan-child,
+.inputnama {
+  position: absolute;
+  top: 52px;
+  left: 65px;
+  width: 359px;
+  height: 66px;
+}
+.inputjenisaduan-child {
+  top: 36px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 31px;
+}
+.inputfoto-child,
+.inputjenisaduan {
+  position: absolute;
+  top: 152px;
+  left: 65px;
+  width: 359px;
+  height: 67px;
+}
+.inputfoto-child {
+  top: 36px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 815px;
+  height: 31px;
+}
+.inputdeskripsi-child,
+.inputfoto {
+  position: absolute;
+  top: 593px;
+  left: 65px;
+  width: 815px;
+  height: 67px;
+}
+.inputdeskripsi-child {
+  top: 47px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 274px;
+}
+.inputdeskripsi {
+  position: absolute;
+  top: 249px;
+  left: 65px;
+  width: 815px;
+  height: 321px;
+}
+.inputlokasi-child {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 372px;
+  height: 31px;
+}
+.inputlokasi {
+  position: absolute;
+  top: 152px;
+  left: 508px;
+  width: 372px;
+  height: 67px;
+}
+.no-handphone {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-weight: 500;
+}
+.inputnohp,
+.inputnohp-child {
+  position: absolute;
+  width: 372px;
+}
+.inputnohp-child {
+  top: 31px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 31px;
+}
+.inputnohp {
+  top: 52px;
+  left: 508px;
+  height: 62px;
+}
+.buttonkirim-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue);
+  width: 146px;
+  height: 38px;
+}
+.buttonkirim,
+.kirim {
+  position: absolute;
+  top: 7px;
+  left: 51px;
+}
+.buttonkirim {
+  top: 763px;
+  left: 734px;
+  width: 146px;
+  height: 38px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.saya-membuat-laporan {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 761px;
+}
+.verifikasilaporan-child {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 23px;
+  height: 25px;
+}
+.formlaporan,
+.verifikasilaporan {
+  position: absolute;
+  top: 683px;
+  left: 71px;
+  width: 809px;
+  height: 36px;
+  font-size: var(--font-size-xs);
+}
+.formlaporan {
+  top: 128px;
+  left: 35rem;
+  width: 942px;
+  height: 820px;
+  font-size: var(--font-size-base);
+}
+.pagelaporan {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(90.08deg, #fff 0.01%);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.input-field:focus {
+  border-color: #4CAF50;
+  outline: none;
+}
+
+.buttonkirim {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.buttonkirim:hover {
+  background-color: #45a049;
+}
+
+.buttonkirim-child {
+  display: none;
+}

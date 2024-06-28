@@ -1,0 +1,242 @@
+.pagelogin-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lavender);
+  width: 50rem;
+  height: 1024px;
+}
+.bg-login-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: -4px 6px 20px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: #eef5ff;
+  width: 1176px;
+  height: 824px;
+}
+.or-login-with {
+  position: absolute;
+  top: 267px;
+  left: 217px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.belum-punya-akun,
+.buat-akun {
+  position: absolute;
+  top: 669px;
+  left: 205px;
+}
+.buat-akun {
+  left: 385px;
+  cursor: pointer;
+}
+.generated-removebg-preview-1-icon {
+  position: absolute;
+  top: 63px;
+  left: 521px;
+  width: 688px;
+  height: 688px;
+  object-fit: cover;
+}
+.bg-login {
+  position: absolute;
+  top: 105px;
+  left: 15rem;
+  width: 1209px;
+  height: 824px;
+  font-size: var(--font-size-base);
+}
+.username1 {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  display: inline-block;
+  width: 69px;
+  height: 11px;
+}
+.username-child {
+  position: absolute;
+  top: 24px;
+  left: 44px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 370px;
+  height: 34px;
+}
+.useroutlined-icon {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.masuk {
+  position: absolute;
+  left: 7rem;
+  width: 414px;
+  height: 58px;
+}
+.username {
+  position: absolute;
+  top: 443px;
+  left: 236px;
+  width: 414px;
+  height: 58px;
+}
+.button-login-gmail-child {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  box-shadow: -2px 2px 15px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lavender);
+  width: 370px;
+  height: 34px;
+}
+.vector-icon {
+  position: absolute;
+  height: 80.59%;
+  width: 6.5%;
+  top: 8.82%;
+  right: 93.5%;
+  bottom: 10.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.login-with-google {
+  position: absolute;
+  top: 9px;
+  left: 171px;
+  font-weight: 600;
+}
+.button-login-gmail,
+.password-child {
+  position: absolute;
+  top: 290px;
+  left: 238px;
+  width: 412px;
+  height: 34px;
+}
+.password-child {
+  top: 20px;
+  left: 42px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 370px;
+}
+.lockoutlined-icon {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.password {
+  position: absolute;
+  top: 551px;
+  left: 238px;
+  width: 412px;
+  height: 54px;
+}
+.button-kirim-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 412px;
+  height: 53px;
+}
+.login1 {
+  position: absolute;
+  top: 11px;
+  left: 164.3px;
+  font-weight: 800;
+  display: inline-block;
+  width: 56.5px;
+}
+.button-kirim,
+.lupa-password {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 53px;
+}
+.lupa-password {
+  top: 64px;
+  left: 306px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 103.6px;
+  height: 11px;
+}
+.button-login1 {
+  position: absolute;
+  top: 671px;
+  left: 280px;
+  width: 370px;
+  height: 75px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.selamat-datang-di {
+  position: absolute;
+  top: 0;
+  left: 17px;
+}
+.whatsapp-image-2024-04-30-at-11 {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 173px;
+  height: 37px;
+  object-fit: cover;
+}
+.headline-selamat-datang {
+  position: absolute;
+  top: 179px;
+  left: 21rem;
+  width: 251px;
+  height: 76px;
+  font-size: var(--font-size-5xl);
+}
+.pagelogin {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(90.08deg, #0c356a);
+  height: 1024px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+
+.username-child, .password-child {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+

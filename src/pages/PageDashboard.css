@@ -1,0 +1,257 @@
+.dfe71791-b199-4c0f-9620-638894-icon {
+  position: absolute;
+  top: 83px;
+  left: 1038px;
+  width: 527px;
+  height: 521px;
+  object-fit: cover;
+}
+.button-laporkan-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 119px;
+  height: 36px;
+}
+.laporkan {
+  position: absolute;
+  top: 6px;
+  left: 22px;
+}
+.button-laporkan,
+.button-login-child {
+  position: absolute;
+  top: 23px;
+  left: 97rem;
+  width: 119px;
+  height: 36px;
+}
+.button-login-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.button-login,
+.login {
+  position: absolute;
+  top: 6px;
+  left: 37px;
+}
+.button-login {
+  top: 23px;
+  left: 87rem;
+  width: 119px;
+  height: 36px;
+  cursor: pointer;
+  color: var(--color-black);
+}
+.platform-pengaduan-layanan {
+  margin: 0;
+}
+.platform-pengaduan-layanan-container {
+  position: absolute;
+  top: 390px;
+  left: 29px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 839px;
+  height: 131px;
+}
+.pengaduan-layanan-masyarakat,
+.suara {
+  position: absolute;
+  top: 212px;
+  left: 29px;
+  font-weight: 900;
+}
+.suara {
+  top: 285px;
+  color: #ed9455;
+}
+.whatsapp-image-2024-04-30-at-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 228px;
+  height: 54px;
+  object-fit: cover;
+}
+.deskripsisuara {
+  position: absolute;
+  top: 20px;
+  left: 62px;
+  width: 1000px;
+  height: 521px;
+  text-align: justify;
+  font-size: var(--font-size-29xl);
+}
+.buttom-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(-0.94deg, #fff, #fae7f3);
+  width: 1440rem;
+  height: 489px;
+}
+.pengaduan-online-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 225px;
+  height: 290px;
+}
+.anda-dapat-dengan,
+.pengaduan-online1 {
+  position: absolute;
+  top: 165px;
+  left: 36px;
+}
+.anda-dapat-dengan {
+  top: 207px;
+  font-size: var(--font-size-4xs);
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 153px;
+}
+.serenade-icon {
+  position: absolute;
+  top: 24px;
+  left: 76px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.pengaduan-online {
+  position: absolute;
+  top: 85px;
+  left: 91px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+  width: 225px;
+  height: 290px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.suara-menyediakan-informasi {
+  position: absolute;
+  top: 207px;
+  left: 30px;
+  display: inline-block;
+  width: 165px;
+}
+.informasi-laporan-pengaduan-container {
+  position: absolute;
+  top: 141px;
+  left: 36px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+  text-align: center;
+}
+.graph-report-icon {
+  position: absolute;
+  top: 24px;
+  left: 69px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.informasi-laoran-pengaduan {
+  position: absolute;
+  top: 85px;
+  left: 436px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+  width: 225px;
+  height: 290px;
+}
+.suara-bekerja-sama {
+  position: absolute;
+  top: 204px;
+  left: 21px;
+  display: inline-block;
+  width: 184px;
+}
+.pemantauan-kinerja {
+  position: absolute;
+  top: 165px;
+  left: 27px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.system-task-icon {
+  position: absolute;
+  top: 23px;
+  left: 68px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.pemantuan-kinerja {
+  position: absolute;
+  top: 85px;
+  left: 781px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+  width: 225px;
+  height: 290px;
+}
+.suara-menyediakan-informasi1 {
+  position: absolute;
+  top: 207px;
+  left: 20px;
+  display: inline-block;
+  width: 187px;
+}
+.pelacakan-pengaduan {
+  position: absolute;
+  top: 165px;
+  left: 19px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+  text-align: center;
+}
+.informasi-laoran-pengaduan1 {
+  position: absolute;
+  top: 85px;
+  left: 1126px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  width: 225px;
+  height: 290px;
+}
+.kenapa-mengadu-di {
+  position: absolute;
+  top: 20px;
+  left: 91px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.buttom {
+  position: absolute;
+  top: 558px;
+  left: 0;
+  width: 1440px;
+  height: 489px;
+  text-align: justify;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.laporant {
+  position: absolute;
+  left: 7rem;
+}
+.pagedashboard {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(90.08deg, #0c356a, #eef5ff);
+  height: 1300px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
